@@ -1,6 +1,6 @@
 # processing_templates
 
-TODO: ここに自分の作成したprocessing codeの簡単な内容を紹介してください．
+TODO:音を波形で視覚化する
 
 ## Installation
 
@@ -30,7 +30,7 @@ githubでdaddygongon/processing_templatesをforkしてください．
 
 ## Usage
 
-TODO: ここに使い方を書いてください．
+TODO:音を目に見えるようにする時
 
 ## Code review
 
