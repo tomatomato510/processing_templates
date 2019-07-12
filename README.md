@@ -35,21 +35,7 @@ TODO:実行ボタンを押す→音楽が流れ、それにあわせて波形が
 
 TODO:https://tech-camp.in/note/technology/45369/
 上記のサイトを参考にしました。
-そのままだとコピーするのは少し味気がなかったので、if(mousePressed)で背景の色の変化、
-
-sampleをそれぞれのdirectoryに置いています．
-
-今見ている，README.mdはmark downで書いています．
-
-robotx_class/REAME.orgはorg-modeで書いています．コードも綺麗にカラー表示されているでしょう．
-
-もちろんmark downでもcodeを綺麗に表示できます．
-書き方は，googleで調べてください．
-
-``` java
-rect(0, 0, 10, 10);
-```
-なんかです．
+「if(mousePressed)」で背景の色の変化を、「void keyPressed()」で波形の色の変化をつけました。
 
 ## License
 
