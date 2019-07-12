@@ -30,12 +30,12 @@ githubでdaddygongon/processing_templatesをforkしてください．
 
 ## Usage
 
-TODO:音を目に見えるようにする時
-
+TODO:実行ボタンを押す→音楽が流れ、それにあわせて波形が動く
 ## Code review
 
-TODO: ここにcodeの概要と，どのような意図で作成したかを書いてください．
-どこの誰のコードを基にして書いたかの引用を忘れずに．
+TODO:https://tech-camp.in/note/technology/45369/
+上記のサイトを参考にしました。
+そのままだと少し味気がなかったので、背景と波形に色の変化をつけました。
 
 sampleをそれぞれのdirectoryに置いています．
 
