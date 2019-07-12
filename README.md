@@ -10,6 +10,7 @@ TODO:実行ボタンを押す→音楽が流れ、それにあわせて波形が
 TODO:https://tech-camp.in/note/technology/45369/
 上記のサイトを参考にしました。
 「if(mousePressed)」で背景の色の変化を、「void keyPressed()」で波形の色の変化をつけました。
+ネットにあがっているフリー音源から、適した音楽をセレクトしました。
 
 ## License
 
