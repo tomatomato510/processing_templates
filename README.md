@@ -1,6 +1,6 @@
 # processing_templates
 
-を波形音で視覚化する
+音を波形で視覚化する
 
 ## Usage
 
