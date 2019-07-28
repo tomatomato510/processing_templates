@@ -23,8 +23,7 @@ https://maoudamashii.jokersounds.com/archives/game_maoudamashii_7_rock54.html
 [Githubのライセンシングを解説した記事](https://www.catch.jp/oss-license/2013/09/10/github/)は
 とても参考になります(だいぶその時...2013か...からは改訂されてるけど)．
 
-This software is released under the MIT License, see LICENSE.txt.
-The processing application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+This software is released under the GNU General Public License v3.0, please see LICENSE.txt.
 
 ## Code of Conduct
 
