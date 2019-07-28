@@ -1,13 +1,14 @@
 # processing_templates
 
-TODO:音を波形で視覚化する
+を波形音で視覚化する
 
 ## Usage
 
-TODO:実行ボタンを押す→音楽が流れ、それにあわせて波形が動く
+実行ボタンを押す→音楽が流れ、それにあわせて波形が動く
 ## Code review
 
-TODO:https://tech-camp.in/note/technology/45369/
+https://github.com/ddf/Minim/blob/master/examples/Basics/DrawWaveformAndLevel/DrawWaveformAndLevel.pde
+
 このサイトを参考にしました。
 「if(mousePressed)」で背景の色の変化を、「void keyPressed()」で波形の色の変化をつけました。
 ネットにあがっているフリー音源から合いそうな音楽を選び、ダウンロードをして使用しました。
