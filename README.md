@@ -5,7 +5,7 @@
 ## Usage
 
 実行ボタンを押す→音楽が流れ、それにあわせて波形が動く
-## Code review
+ここ## Code review
 
 https://github.com/ddf/Minim/blob/master/examples/Basics/DrawWaveformAndLevel/DrawWaveformAndLevel.pde
 
@@ -18,10 +18,6 @@ https://maoudamashii.jokersounds.com/archives/game_maoudamashii_7_rock54.html
 
 
 ## License
-
-ここではサンプルとしてMITライセンスの表示をしています．Creative commonsとかLGPLでもOKです．
-[Githubのライセンシングを解説した記事](https://www.catch.jp/oss-license/2013/09/10/github/)は
-とても参考になります(だいぶその時...2013か...からは改訂されてるけど)．
 
 This software is released under the GNU General Public License v3.0, please see LICENSE.
 
