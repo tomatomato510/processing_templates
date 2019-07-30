@@ -5,7 +5,8 @@
 ## Usage
 
 実行ボタンを押す→音楽が流れ、それにあわせて波形が動く
-ここ## Code review
+
+## Code review
 
 https://github.com/ddf/Minim/blob/master/examples/Basics/DrawWaveformAndLevel/DrawWaveformAndLevel.pde
 
